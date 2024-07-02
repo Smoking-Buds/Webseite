@@ -1,5 +1,5 @@
-const HeaderProductTitle = document.getElementsByClassName('header-product-title')
-productTitle = fetch('/api/products', {
+const HeaderNewsTitle = document.getElementsByClassName('header-news-title')
+newsTitle = fetch('/api/news', {
     method: 'GET',
     headers: {
         'Content-Type': 'application/json'
@@ -8,4 +8,4 @@ productTitle = fetch('/api/products', {
     integrity: 'sha256-abcdef1234567890abcdef1234567890abcdef1234567890',
     keepalive: 'true',
 });
-HeaderProductTitle.innerHTML = productTitle;
+HeaderNewsTitle.innerHTML = newsTitle;
