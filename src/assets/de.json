@@ -1,0 +1,27 @@
+{
+    "navbar": {
+        "home": "Startseite",
+        "news": "Nachrichten",
+        "shop": "Shop",
+        "about": "Über uns",
+        "contact": "Kontakt",
+        "login": "Anmelden"
+    },
+    "footer": {
+        "instagram": "Instagram",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "products": "Produkte",
+        "support": "Unterstützung",
+        "legal": "Rechtliches",
+        "preRolls": "Prerolls",
+        "bongs": "Bongs",
+        "grinders": "Grinder",
+        "seeds": "Samen",
+        "contact": "Kontakt",
+        "faq": "FAQ",
+        "terms": "AGB",
+        "privacy": "Datenschutz"
+    },
+    "welcomeMessage": "Willkommen in unserem Shop!"
+}

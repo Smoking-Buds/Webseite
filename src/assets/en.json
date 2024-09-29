@@ -1,0 +1,27 @@
+{
+    "navbar": {
+        "home": "Home",
+        "news": "News",
+        "shop": "Shop",
+        "about": "About",
+        "contact": "Contact",
+        "login": "Login"
+    },
+    "footer": {
+        "instagram": "Instagram",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "products": "Products",
+        "support": "Support",
+        "legal": "Legal",
+        "preRolls": "Pre Rolls",
+        "bongs": "Bongs",
+        "grinders": "Grinders",
+        "seeds": "Seeds",
+        "contact": "Contact",
+        "faq": "FAQ",
+        "terms": "Terms",
+        "privacy": "Privacy"
+    },
+    "welcomeMessage": "Welcome to our shop!"
+}
