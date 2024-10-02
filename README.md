@@ -1,12 +1,21 @@
-# Webseite-v1
-Die Webseite in HTML5, CSS3 und JavaScript um das Frontend zu bieten und eine Präsenz zu zeigen. V1.5 soll das Backend beinhalten.
+# Web Application
 
+The web application uses Vue.js with TypeScript for building a dynamic and maintainable frontend. We integrate MerakiUI for streamlined UI components.
 
-## HTML 5 structure
-Easy to understand and fast to work into the project. You don't need long time to read this code. Readable source code.
+## Vue.js and TypeScript Structure
+We leverage Vue.js to create reactive and component-based architecture. The project is written entirely in TypeScript, ensuring type safety and better scalability.
 
-## CSS 3 structure
-Every site have a own .css file and all .css files imported into the index.css and the main.css is imported in the style.css and this imported into the index.css and so are all connected to one .css file.
+## MerakiUI Integration
+The UI components are powered by MerakiUI, providing a clean and modern design system. All components are customizable and reusable, which accelerates development and keeps the codebase consistent.
 
-## JavaScript 3 structure
-It exist a file for the news and product details to fetch the products to the site via local storage like json. Exist a script.js for main script of JavaScript and a validator.js for the validations of passwort or email and other must haves.
+## Project Structure
+- **Components**: Each page and feature is separated into Vue components, allowing modular development and easy maintenance.
+- **State Management**: Vuex (or Pinia) is used for managing the application's state across components.
+- **TypeScript**: All files are written in TypeScript for better type checking, making the code safer and easier to refactor.
+
+## CSS and Tailwind
+- **Tailwind CSS**: The styles are managed using Tailwind CSS classes within Vue components. This approach helps in writing minimal custom CSS and speeds up styling with pre-configured utility classes.
+
+## JavaScript and Vue Features
+- **API Integration**: We use Vue's `axios` or `fetch` to pull data dynamically from the backend.
+- **Form Validation**: Custom validation logic is implemented using Vue.js and TypeScript, ensuring secure and correct user input.
